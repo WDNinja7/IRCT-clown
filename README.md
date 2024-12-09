@@ -1,2 +1,2 @@
 # IRCT-clown
-Build this project for Pw course Assignment 
+This is a Irct clown App made With Html And Css 
